@@ -1,0 +1,13 @@
+reef.mp4 and reef.jpg
+
+Source: Zebrasoma flavescens - uShaka Sea World.webm
+Author: Amada44
+https://commons.wikimedia.org/wiki/File:Zebrasoma_flavescens_-_uShaka_Sea_World.webm
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Adaptation: excerpt 00:04–00:08; center-region square crop 720×720 at x=260;
+resize to 640×640; 24 fps; contrast/brightness/saturation adjustments;
+audio removed; H.264 encoding; thumbnail at 3.4 seconds.
+These adapted media files are distributed under CC BY-SA 3.0.
+No endorsement by the original author is implied.

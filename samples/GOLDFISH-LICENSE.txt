@@ -1,0 +1,14 @@
+goldfish.mp4 and goldfish.jpg
+
+Source: Goldfish-inatank-nagasaki-2023-Jan-27.webm
+Author: Nesnad
+https://commons.wikimedia.org/wiki/File:Goldfish-inatank-nagasaki-2023-Jan-27.webm
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Adaptation: excerpt 00:17–00:21, square crop (1912×1912 at source x=650),
+resize to 640×640, 24 fps, mild contrast/brightness/saturation grade,
+audio removed, H.264 encoding, thumbnail generated at 3.4 seconds.
+These adapted media files are distributed under CC BY-SA 4.0.
+No endorsement is implied. This is independently licensed reference-compatible
+footage, not the media in the poetengineer social post.

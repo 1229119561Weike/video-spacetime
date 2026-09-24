@@ -1,0 +1,11 @@
+capybara.mp4 and capybara.jpg
+
+Source: Baby Capybara Twins.webm
+Author: Daniel Baumgartner
+https://commons.wikimedia.org/wiki/File:Baby_Capybara_Twins.webm
+License: Creative Commons Attribution 3.0 International
+https://creativecommons.org/licenses/by/3.0/
+
+Adaptation: excerpt 00:00–00:04, square center crop from 1920×1080,
+resize to 640×640, 24 fps, audio removed and H.264 encoded; thumbnail at 3.4s.
+These adapted files are distributed under CC BY 3.0.

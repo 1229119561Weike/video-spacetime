@@ -1,0 +1,17 @@
+crossing.mp4 and crossing.jpg
+
+Adapted from: Shibuya Scramble Crossing.ogv
+Author: Gst
+Source: https://commons.wikimedia.org/wiki/File:Shibuya_Scramble_Crossing.ogv
+Original: https://upload.wikimedia.org/wikipedia/commons/d/db/Shibuya_Scramble_Crossing.ogv
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Changes: selected a four-second excerpt starting at 00:06, cropped from
+640x480 to 640x360 (top offset 120), reduced saturation, adjusted contrast,
+converted to H.264 MP4 at 24 fps, and generated a JPEG thumbnail.
+These adapted media files are distributed under the same CC BY-SA 3.0 license.
+No endorsement by the original author is implied.
+
+The website's other original demonstration animations have their own CC0
+dedication in LICENSE.txt. This license covers crossing.mp4 and crossing.jpg.
